@@ -39,7 +39,16 @@ This is a web-based Restaurant Table Reservation Platform developed using Java J
 
 ## 🧩 Class Diagram
 
-![Class Diagram](images/class-diagram.png)
+![Class Diagram](docs/Class Diagram.png)
+
+---
+
+## 📁 Project Structure
+- Model Layer
+- Service Layer
+- Utility Layer
+- Servlet Controller
+- JSP Frontend
 
 ---
 

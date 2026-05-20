@@ -354,7 +354,7 @@
                     <div class="field">
                         <label for="name">Guest Name</label>
                         <input type="text" id="name" name="name" placeholder="Full name" required>
-                        <small>Customer's full name</small>
+                        <small>Enter customer full name</small>
                     </div>
                 </div>
 
@@ -380,7 +380,7 @@
                         <label for="guests">Number of Guests</label>
                         <input type="number" id="guests" name="guests"
                                min="1" max="20" placeholder="1 – 20" required>
-                        <small>Maximum 20 guests per reservation</small>
+                        <small>Enter guest count between 1 and 20</small>
                     </div>
                     <div class="field">
                         <label for="table">Table Number</label>

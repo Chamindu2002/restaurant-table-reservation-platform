@@ -1,35 +1,3 @@
-//package model;
-//
-//public abstract class Reservation {
-//
-//    private String id;
-//    private String name;
-//    private String date;
-//    private String time;
-//    private int guests;
-//    private int table;
-//
-//    public Reservation(String id, String name, String date, String time, int guests, int table) {
-//        this.id = id;
-//        this.name = name;
-//        this.date = date;
-//        this.time = time;
-//        this.guests = guests;
-//        this.table = table;
-//    }
-//
-//    // Getters (Encapsulation)
-//    public String getId() { return id; }
-//    public String getName() { return name; }
-//    public String getDate() { return date; }
-//    public String getTime() { return time; }
-//    public int getGuests() { return guests; }
-//    public int getTable() { return table; }
-//
-//    // Abstract method (Abstraction + Polymorphism)
-//    public abstract double calculateCost();
-//}
-
 package model;
 
 public abstract class Reservation {
